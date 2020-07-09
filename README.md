@@ -1,6 +1,4 @@
 
-![image info](https://github.com/mohsenshafiei/mohsenshafiei/blob/master/eyes-looking-left-.png)
-
 <!--
 **mohsenshafiei/mohsenshafiei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
