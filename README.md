@@ -1,4 +1,4 @@
-😄 Hi There,
+Hi there :wave:,
 
 My name is Mohsen, and I am a `Frontend Engineer`. I am from IRAN(:iran:), and I live in SINGAPORE(:singapore:). In these modern days, I am contributing to [Shopee](https://shopee.sg/).
 
