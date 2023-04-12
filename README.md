@@ -2,9 +2,9 @@
 I'm a Software Engineer at [Apple](https://www.apple.com). I am from Iran 🇮🇷  and I live in Singapore 🇸🇬. 
 
 ### My interests are: 
-- Creating tools and utilities
-- Optimizing softwares and products
-- Finding creative solutions for improving products and problems
+- Creating innovative tools and utilities
+- Optimizing software and products
+- Finding creative solutions to enhance products and address challenges
 
 ### Connect with me:
 [![Website](https://img.shields.io/website?label=mohsenshafiei.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
