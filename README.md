@@ -4,7 +4,7 @@ I'm a Software Engineer at [Apple](https://www.apple.com). I am from Iran ðŸ‡®ðŸ
 ### My interests are: 
 - Creating tools and utilities
 - Optimizing softwares and products
-- Finding creative solutions for improving products and solving problems
+- Finding creative solutions for improving products and problems
 
 ### Connect with me:
 [![Website](https://img.shields.io/website?label=mohsenshafiei.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
