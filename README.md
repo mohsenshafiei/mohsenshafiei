@@ -1,6 +1,6 @@
 ### Hi there, I am Mohsen 👋
 
-I'm a **Senior Software Engineer** at [Apple](https://www.apple.com). I am from Iran 🇮🇷  and I am based in **Singapore** 🇸🇬 and **Montreal, Canada** 🇨🇦.
+I'm a **Senior Software Engineer** at [Apple](https://www.apple.com). I am from Iran 🇮🇷  and I am based in Singapore 🇸🇬 and Montreal, Canada 🇨🇦.
 
 ### My interests are:
 - Working on large-scale applications and web platforms.
