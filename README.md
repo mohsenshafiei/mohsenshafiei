@@ -4,7 +4,6 @@
 - Currently working as a **Senior Frontend Engineer** at **Apple**.
 - I am based in **Montreal, Canada** 🇨🇦 and frequently visit **Singapore** 🇸🇬
 
-
 #### What I'm Passionate About:
 - **Large-Scale Applications and Web Platforms:** I have a passion for engineering and scaling complex web platforms and applications.
 - **Coaching and Mentoring:** I write about coaching, engineering management, and mentorship within the software engineering field, focusing on guiding emerging talents and those new to roles like tech lead and staff engineer.
@@ -13,12 +12,12 @@
 - **Creative Problem Solving:** I enjoy solving challenges with unique, creative solutions that push the boundaries of thinking.
 
 #### My Goals for this year:
-- Publishing my first book 📗.
+- Publish my first book 📗.
+- Learn more about psychoanalysis.
 
 #### Let's Connect!
 - Ask me anything about frontend technologies, software optimization, coaching, mentoring, publishing tech-related books, and anything web-related.
-- I love coffee ☕, cooking 👨‍🍳, and natural wine 🍷.
-
+- **Fun facts**: I love coffee ☕, cooking 👨‍🍳, and natural wine 🍷.
 
 #### How to reach me:
 
