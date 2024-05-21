@@ -6,9 +6,9 @@
 
 #### What I'm Passionate About:
 - **Large-Scale Applications and Web Platforms:** I have a passion for engineering and scaling complex web platforms and applications.
-- **Coaching and Mentoring:** I write about coaching, engineering management, and mentorship within the software engineering field, focusing on guiding emerging talents and those new to roles like tech lead and staff engineer.
+- **Coaching and Mentoring:** I write about coaching, engineering management, and mentorship within the software engineering field, focusing on guiding talents and those new to roles like tech lead and staff engineer.
 - **Tooling for Development:** I create and refine tools that enhance the development experience for engineers.
-- **Optimization:** I enjoy optimizing software, products, and services to achieve superior efficiency and performance.
+- **Optimization:** I enjoy optimizing software, products, and services to achieve high efficiency and performance.
 - **Creative Problem Solving:** I enjoy solving challenges with unique, creative solutions that push the boundaries of thinking.
 
 #### My Goals for this year:
