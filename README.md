@@ -1,7 +1,7 @@
 ### Hi there, I'm Mohsen 👋
 
 #### About Me:
-- Currently working as a **Senior Frontend Engineer** at **Apple**.
+- Currently working as a **Senior Frontend Engineer**.
 - I am based in **Montreal, Canada** 🇨🇦 and frequently visit **Singapore** 🇸🇬
 
 #### What I'm Passionate About:
