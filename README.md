@@ -14,6 +14,7 @@
 #### My Goals for this year:
 - Publish my first book 📗.
 - Learn more about psychoanalysis.
+- Learn and master butterfly swimming 🏊
 
 #### Let's Connect!
 - Ask me anything about frontend technologies, software optimization, coaching, mentoring, publishing tech-related books, and anything web-related.
