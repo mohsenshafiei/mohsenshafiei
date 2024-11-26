@@ -2,7 +2,7 @@
 
 #### About Me:
 - Currently working as a **Senior Frontend Engineer**.
-- I am based in **Montreal, Canada** 🇨🇦 and frequently visit **Singapore** 🇸🇬
+- I am based in **Montreal, Canada** 🇨🇦 and frequently visit **Singapore** 🇸🇬.
 
 #### What I'm Passionate About:
 - **Large-Scale Applications and Web Platforms:** I have a passion for engineering and scaling complex web platforms and applications.
@@ -14,7 +14,7 @@
 #### My Goals for this year:
 - Publish my first book 📗.
 - Learn more about psychoanalysis.
-- Learn and master butterfly swimming 🏊
+- Learn and master butterfly swimming 🏊.
 
 #### Let's Connect!
 - Ask me anything about frontend technologies, software optimization, coaching, mentoring, publishing tech-related books, and anything web-related.
