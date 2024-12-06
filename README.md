@@ -5,7 +5,7 @@
 - I am based in **Montreal, Canada** 🇨🇦 and frequently visit **Singapore** 🇸🇬.
 
 #### What I'm Passionate About:
-- **Large-Scale Applications and Web Platforms:** I enjoy working scaling complex web platforms and applications.
+- **Large-Scale Applications and Web Platforms:** I enjoy working on complex web platforms and applications.
 - **Coaching and Mentoring:** I write about coaching, engineering management, and mentorship within the software engineering field.
 - **Tooling for Development:** I create and refine tools that enhance the development experience for engineers.
 - **Optimization:** I enjoy optimizing software, products, and services.
